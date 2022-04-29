@@ -328,9 +328,9 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "f46fe7e458761264258260d2e263ae8e",
 "icons/Icon-maskable-512.png": "ef50c61c123db281717e8332e3ad3bbe",
-"index.html": "748a7822e62bbdd0ece87145cf521a0c",
-"/": "748a7822e62bbdd0ece87145cf521a0c",
-"main.dart.js": "50a3663f2e13f675084cfafc1fc5ce45",
+"index.html": "8256ed8486df88182f3713b8d5324135",
+"/": "8256ed8486df88182f3713b8d5324135",
+"main.dart.js": "86993141b3f1af3762ec7376cf349db5",
 "manifest.json": "3049c0b4ea86cda3e0f36192fcc9629f",
 "version.json": "be01cb3b4da930964efbead2ded74ae2"
 };
